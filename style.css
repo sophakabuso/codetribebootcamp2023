@@ -1,0 +1,48 @@
+ 
+
+
+
+.mainContainer {
+    background-color: whitesmoke;
+}
+.containerTitle {
+    font-size: small;
+    font-weight: 10;
+}
+.iconImg {
+    width:40px;
+    height: 40px;
+    
+}
+.subject {
+    font-weight: lighter ;
+}
+.prof {
+    font-weight: bold;
+}
+.skillslist {
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+    margin: 16px;
+    border-radius: 16px;
+    
+    
+}
+.listitem{
+
+    width: 60%;
+}
+.biography {
+    font-style:normal;
+# hear-about{
+    
+}
+.inputinfo{
+    width: 100%;
+    height: 10%;
+    background-color:whitesmoke;
+}
+.youreview {
+    height: 50vh;
+}
